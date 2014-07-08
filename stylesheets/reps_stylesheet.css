@@ -147,9 +147,21 @@ select:hover {
 .form-font {
     font-family: 'Open Sans',sans-serif;
     font-size:21px;
-    font-weight: 200;
-    height: 45px;
+    font-weight: 20;
+    height: 40px;
 }
+
+.form-group{
+    border: 2px solid black;
+    border-radius: 2px;
+    width:290px;
+    
+}
+
+#searchButton{
+    border: 2px solid black;
+    border-radius: 2px;
+    width:50px;
 
 
 .contact-info {
